@@ -1,5 +1,8 @@
 # 🌸 AI-Powered Emotion Analytics & Behavioral Insight System
 
+## Demo
+Try it live on Hugging Face Space: [Open Demo] https://huggingface.co/spaces/Torne/Emotion_Detection
+
 ## Overview
 This project is an **AI-driven mental health and emotion analysis system** designed to help users track and understand their emotional state over time. By analyzing user text inputs, the system detects emotions, calculates behavioral insights, and visualizes trends with intuitive charts.  
 
